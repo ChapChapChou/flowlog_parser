@@ -9,7 +9,7 @@
     17: "udp",
     1: "icmp",
     ```
-4. Usage:
+4. Usage: Python 3.12.4
         ```
         python3 flowlog_parser.py <flow_log_file> <lookup_csv_file> [<output_file>]
         ```
